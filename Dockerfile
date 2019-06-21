@@ -1,4 +1,4 @@
-FROM rabbitmq:management
+FROM rabbitmq:3.6.15-management
 
 MAINTAINER developers@synopsis.cz
 
